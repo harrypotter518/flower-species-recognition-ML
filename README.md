@@ -140,3 +140,5 @@ To learn how to design several machine learning models, test their accuracies &
 compare them while avoiding overfitting with the help of cross validation techniques.
 
 Finally, the goal is that for any supervised image classification problem we can have the same and ideas can be implemented.
+
+## We can also use pytorch library.
